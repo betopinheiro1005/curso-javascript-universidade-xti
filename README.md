@@ -1,7 +1,8 @@
 # Curso de JavaScript  
 ## Universidade XTI (Ricardo Mendes)  
-### Link dos vídeos
-<https://www.youtube.com/watch?v=VtJuifD4dSE&list=PLxQNfKs8YwvEk85FbeXxDnFecAntIQdRf>
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=VtJuifD4dSE&list=PLxQNfKs8YwvEk85FbeXxDnFecAntIQdRf)
+
 ### Lista de aulas
 
 Aula 01 - Introdução  
